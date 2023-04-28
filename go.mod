@@ -1,4 +1,4 @@
-module github.com/google/docsy
+module github.com/shaman-yellow/siteBlogTheme
 
 go 1.12
 

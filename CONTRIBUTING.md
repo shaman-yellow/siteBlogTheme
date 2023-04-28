@@ -82,7 +82,7 @@ repo.
       ```markdown
       ## Release summary
 
-      See, https://github.com/google/docsy/blob/main/CHANGELOG.md#0XY
+      See, https://github.com/shaman-yellow/siteBlogTheme/blob/main/CHANGELOG.md#0XY
 
       ## Commit details
       ```
@@ -95,5 +95,5 @@ repo.
     - Click **Publish release**.
 
 [contribution guidelines]: https://www.docsy.dev/docs/contribution-guidelines/
-[Draft a new release]: https://github.com/google/docsy/releases/new
+[Draft a new release]: https://github.com/shaman-yellow/siteBlogTheme/releases/new
 [userguide/hugo.toml]: userguide/hugo.toml

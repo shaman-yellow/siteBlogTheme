@@ -6,7 +6,7 @@ title: Docsy
 <a class="btn btn-lg btn-primary me-3 mb-4" href="{{% relref "/about" %}}">
   Learn More <i class="fa-solid fa-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/shaman-yellow/siteBlogTheme">
   Download <i class="fa-brands fa-github ms-2 "></i>
 </a>
 
@@ -34,8 +34,8 @@ As well as our example site, there's a growing number of projects using Docsy fo
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fa-brands fa-github" title="Contributions welcome!" url="https://github.com/google/docsy" %}}
-We do a [Pull Request](https://github.com/google/docsy/pulls) contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="fa-brands fa-github" title="Contributions welcome!" url="https://github.com/shaman-yellow/siteBlogTheme" %}}
+We do a [Pull Request](https://github.com/shaman-yellow/siteBlogTheme/pulls) contributions workflow on **GitHub**. New users are always welcome!
 {{% /blocks/feature %}}
 
 

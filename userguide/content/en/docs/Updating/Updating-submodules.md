@@ -45,7 +45,7 @@ the `themes` folder in your project, then you use the `git pull` command:
     ```bash
     cd themes
 
-1. Ensure that `origin` is set to `https://github.com/google/docsy.git`:
+1. Ensure that `origin` is set to `https://github.com/shaman-yellow/siteBlogTheme.git`:
 
     ```bash
     git remote -v

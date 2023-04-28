@@ -1,4 +1,4 @@
-module github.com/google/docsy/dependencies
+module github.com/shaman-yellow/siteBlogTheme/dependencies
 
 go 1.12
 

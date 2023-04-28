@@ -35,12 +35,12 @@ For a list of issues targeted for the next release, see the [23Q1][] milestone.
 - Non-breaking changes that result from the Bootstrap v5 upgrade:
   - Draw.io diagram edit button: replaced custom colors by BS's outline primary.
 
-[#470]: https://github.com/google/docsy/issues/470
-[#906]: https://github.com/google/docsy/issues/906
-[#939]: https://github.com/google/docsy/issues/939
-[#1369]: https://github.com/google/docsy/issues/1369
-[#1442]: https://github.com/google/docsy/issues/1442
-[#1472]: https://github.com/google/docsy/issues/1472
+[#470]: https://github.com/shaman-yellow/siteBlogTheme/issues/470
+[#906]: https://github.com/shaman-yellow/siteBlogTheme/issues/906
+[#939]: https://github.com/shaman-yellow/siteBlogTheme/issues/939
+[#1369]: https://github.com/shaman-yellow/siteBlogTheme/issues/1369
+[#1442]: https://github.com/shaman-yellow/siteBlogTheme/issues/1442
+[#1472]: https://github.com/shaman-yellow/siteBlogTheme/issues/1472
 [blocks/section]:
   https://www.docsy.dev/docs/adding-content/shortcodes/#blockssection
 [bsv5mig]: https://getbootstrap.com/docs/5.2/migration/
@@ -186,8 +186,8 @@ For a full list of the changes to this release, see the [release notes][0.3.0].
   [issue #1154][]. Release [0.5.0][] includes a fix.
 
 [bs4cards]: https://getbootstrap.com/docs/4.1/components/card/
-[pr #1009]: https://github.com/google/docsy/pull/1009
-[issue #1154]: https://github.com/google/docsy/issues/1154
+[pr #1009]: https://github.com/shaman-yellow/siteBlogTheme/pull/1009
+[issue #1154]: https://github.com/shaman-yellow/siteBlogTheme/issues/1154
 
 ## [0.2.0][]
 
@@ -215,16 +215,16 @@ For a full list of the changes to this release, see the [release notes][0.x.y].
 
 [@deining]: https://github.com/deining
 [@lisafc]: https://github.com/LisaFC
-[0.6.0]: https://github.com/google/docsy/releases/v0.6.0
-[0.5.1]: https://github.com/google/docsy/releases/v0.5.1
-[0.5.0]: https://github.com/google/docsy/releases/v0.5.0
-[0.4.0]: https://github.com/google/docsy/releases/v0.4.0
-[0.3.0]: https://github.com/google/docsy/releases/v0.3.0
-[0.2.0]: https://github.com/google/docsy/releases/v0.2.0
+[0.6.0]: https://github.com/shaman-yellow/siteBlogTheme/releases/v0.6.0
+[0.5.1]: https://github.com/shaman-yellow/siteBlogTheme/releases/v0.5.1
+[0.5.0]: https://github.com/shaman-yellow/siteBlogTheme/releases/v0.5.0
+[0.4.0]: https://github.com/shaman-yellow/siteBlogTheme/releases/v0.4.0
+[0.3.0]: https://github.com/shaman-yellow/siteBlogTheme/releases/v0.3.0
+[0.2.0]: https://github.com/shaman-yellow/siteBlogTheme/releases/v0.2.0
 [0.x.y]: #
-[23q1]: https://github.com/google/docsy/milestone/6
+[23q1]: https://github.com/shaman-yellow/siteBlogTheme/milestone/6
 [hugo modules]: https://gohugo.io/hugo-modules/
-[latest]: https://github.com/google/docsy/releases/latest
-[releases]: https://github.com/google/docsy/releases
-[tags]: https://github.com/google/docsy/tags
-[bs-announcement]: https://github.com/google/docsy/discussions/1308
+[latest]: https://github.com/shaman-yellow/siteBlogTheme/releases/latest
+[releases]: https://github.com/shaman-yellow/siteBlogTheme/releases
+[tags]: https://github.com/shaman-yellow/siteBlogTheme/tags
+[bs-announcement]: https://github.com/shaman-yellow/siteBlogTheme/discussions/1308
